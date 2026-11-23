@@ -72,7 +72,7 @@ It is written in PHP and MySQL/MariaDB, built for mobile, with no framework and 
 |---|---|
 | `login` | Built-in login with one username and password. The default. |
 | `demo` | No login. Each visitor gets their own sandbox with sample data, deleted after `DEMO_TTL_HOURS` hours. Requires `sql/demo.sql`. |
-| `ll2` | Shares the session with an existing login system (`ll2.php`). Used in the author's own installation, and you can ignore it. |
+
 
 ## Files
 

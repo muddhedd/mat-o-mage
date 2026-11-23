@@ -70,7 +70,7 @@ Det är gjort i PHP och MySQL/MariaDB, byggt för mobilen och kräver inga ramve
 |---|---|
 | `login` | Inbyggd inloggning med ett användarnamn och lösenord. Standardläget. |
 | `demo` | Ingen inloggning. Varje besökare får en egen sandlåda med exempeldata som raderas efter `DEMO_TTL_HOURS` timmar. Kräver `sql/demo.sql`. |
-| `ll2` | Delar session med ett befintligt inloggningssystem (`ll2.php`). Används i författarens egen installation och kan ignoreras. |
+
 
 ## Filer
 
